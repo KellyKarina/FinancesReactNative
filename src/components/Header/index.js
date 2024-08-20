@@ -56,7 +56,7 @@ export default function Header({ name }) {
 
 const styles = StyleSheet.create({
     container: {
-        backgroundColor: '#8000ff',
+        backgroundColor: '#FCFC30',
         paddingTop: StatusBarHeight,
         flexDirection: 'row',
         paddingStart: 16,
